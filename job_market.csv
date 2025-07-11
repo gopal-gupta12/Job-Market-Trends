@@ -1,0 +1,47 @@
+Company-Name,Job-Title,Location,Skills,Salary,Date-Posted
+SAP,Software/Developer,Bangalore,"ABAP;Fiori;SAP HANA","1400000–2000000",2025-05-24
+Dell,IT/Support,Haryana,"Networking;VMware;Helpdesk","900000–1500000",2025-05-22
+Intel,Data Analyst/Scientist,Pune,"TensorFlow;Python;Deep Learning","1800000–2500000",2025-05-20
+Novartis,Manager/Director,Chennai,"Quality Management;Regulatory;Excel","800000–1200000",2025-05-18
+Samsung,Software/Developer,Bangalore,"C;Android;Linux Kernel","1600000–2300000",2025-05-16
+HP,IT/Support,Mumbai,"Windows;Active Directory;Helpdesk","600000–900000",2025-05-14
+Ericsson,IT/Support,Hyderabad,"5G;LabView;Testing","1200000–1800000",2025-05-12
+NVIDIA,Software/Developer,Bangalore,"C++;CUDA;Parallel Computing","2000000–3000000",2025-05-10
+Siemens,IT/Support,Pune,"PLC;SCADA;AutoCAD","700000–1100000",2025-05-08
+Johnson & Johnson,Data Analyst/Scientist,Hyderabad,,"900000–1300000",2025-05-06
+Qualcomm,Software/Developer,Bangalore,"C;RTOS;Firmware","1800000–2400000",2025-05-04
+Boston Scientific,,Delhi,"FDA;Compliance;Documentation","1000000–1500000",2025-05-02
+General Electric,Software/Developer,Pune,"Python;IoT;Digital Twins","1500000–2200000",2025-04-30
+Bosch,Software/Developer,Bangalore,"C++;ROS;Computer Vision","2000000–2700000",2025-04-28
+LG,Software/Developer,,"React;JavaScript;Web Services","800000–1200000",2025-04-26
+Adobe,Data Analyst/Scientist,Noida,"Spark;Hive;Kafka","1500000–2200000",2025-04-24
+Uber,Manager/Director,Bangalore,,"1600000–2400000",2025-04-22
+Paytm,Software/Developer,Jaipur,"Angular;Node.js;MongoDB","850000–1300000",2025-04-20
+Goldman Sachs,Manager/Director,Mumbai,,"1200000–1800000",2025-04-18
+EY,,Bangalore,"Kali Linux;PenTesting;AWS","1000000–1600000",2025-04-16
+WNS,Software/Developer,Pune,"UiPath;VB.NET;SQL","700000–1100000",2025-04-14
+Zomato,Software/Developer,Gurugram,"Java;Spring Boot;MySQL","1000000–1600000",2025-04-12
+PhonePe,,Bangalore,"Analytics;SQL;Agile","1400000–2200000",2025-04-10
+Ola,Data Analyst/Scientist,Bangalore,"Tableau","800000–1300000",2025-04-08
+Siemens,Manager/Director,Pune,"Mechanical Design;Leadership;Budgeting","1500000–2100000",2025-04-06
+Philips,IT/Support,Bangalore,,"1000000–1600000",2025-04-04
+Bosch,Software/Developer,Bangalore,"Embedded C;Automation","700000–1200000",2025-04-02
+Intel,Data Analyst/Scientist,Bangalore,"EDA;Signal Processing;Python","1400000–2100000",2025-04-01
+Cisco,IT/Support,Pune,"CCNA;Routing;Switching","700000–1200000",2025-03-30
+Oracle,Software/Developer,Mumbai,"SQL;Performance Tuning;Oracle","800000–1300000",2025-03-28
+Cisco,Manager/Director,Pune,"Network Design;Team Lead","900000–1400000",
+LinkedIn,Software/Developer,Bangalore,"Java;Spring Boot;Microservices","1600000–2300000",2025-03-24
+Accenture,Data Analyst/Scientist,Mumbai,"Python;",,2025-03-22
+Microsoft,Manager/Director,Hyderabad,"Azure;Leadership;Strategy","2000000–3000000",2025-03-20
+TCS,Software/Developer,Chennai,"C#;ASP.NET;SQL Server","1000000–1600000",2025-03-18
+Infosys,IT/Support,Pune,"Linux;Networking;Shell Scripting","800000–1200000",2025-03-16
+Google,Software/Developer,,"Go;Kubernetes;Cloud","2200000–3200000",2025-03-14
+Capgemini,Data Analyst/Scientist,Gurugram,"Tableau;","1100000–1800000",2025-03-12
+IBM,Manager/Director,Delhi,"Consulting;PMP;Team Lead","1800000–2600000",2025-03-10
+Wipro,IT/Support,Hyderabad,"Helpdesk;Windows Server;AD","700000–1100000",2025-03-08
+Oracle,Software/Developer,,"Java;Oracle DB;Performance Tuning","1400000–2100000",2025-03-06
+Flipkart,Data Analyst/Scientist,Bangalore,"R;SQL","1300000–2000000",2025-03-04
+Deloitte,Manager/Director,Chennai,"Business Analysis;Stakeholder Mgmt","1500000–2200000",2025-03-02
+HCL,IT/Support,Mumbai,"Network Admin;Firewalls;VPN","900000–1400000",2025-02-28
+Cisco,,Delhi,"Python;Network Automation;REST APIs","1600000–2400000",2025-02-26
+Adobe,Data Analyst/Scientist,Bangalore,"Hadoop;Spark;ETL","1700000–2600000",2025-02-24
